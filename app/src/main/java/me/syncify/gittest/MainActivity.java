@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        // F2 changes done
+        // F2 changes done ok
     }
 
     @Override
